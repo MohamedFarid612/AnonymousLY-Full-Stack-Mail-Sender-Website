@@ -1,1 +1,1 @@
-# AnonymousLY-Full-Stack-Mail-Sender-Website
+# AnonymousLY Full-Stack Mail Sender Website
